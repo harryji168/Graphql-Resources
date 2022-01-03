@@ -8,7 +8,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [awesome-graphql ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-graphql-)
+- [awesome-graphql ![Awesome](](#awesome-graphql-)
   - [Table of Contents](#table-of-contents)
   - [Specifications](#specifications)
   - [Foundations](#foundations)
